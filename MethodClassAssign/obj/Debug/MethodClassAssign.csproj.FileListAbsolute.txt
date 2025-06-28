@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\MethodClassAssign\MethodClassAssign\bin\Debug\MethodClassAssign.exe.config
+C:\Users\USER\source\repos\MethodClassAssign\MethodClassAssign\bin\Debug\MethodClassAssign.exe
+C:\Users\USER\source\repos\MethodClassAssign\MethodClassAssign\bin\Debug\MethodClassAssign.pdb
+C:\Users\USER\source\repos\MethodClassAssign\MethodClassAssign\obj\Debug\MethodClassAssign.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\MethodClassAssign\MethodClassAssign\obj\Debug\MethodClassAssign.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MethodClassAssign\MethodClassAssign\obj\Debug\MethodClassAssign.exe
+C:\Users\USER\source\repos\MethodClassAssign\MethodClassAssign\obj\Debug\MethodClassAssign.pdb
